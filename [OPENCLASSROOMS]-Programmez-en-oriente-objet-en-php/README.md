@@ -1,7 +1,7 @@
 # Programmez en orienté objet en PHP [[#](https://openclassrooms.com/fr/courses/1665806-programmez-en-oriente-objet-en-php?status=published)]
 
 ## Partie 1 - [Théorie] Les bases de la POO
-- [ ] **1.** Introduction à la POO
+- [x] **1.** Introduction à la POO
 - [ ] **2.** Utiliser la classe
 - [ ] **3.** L'opérateur de résolution de portée
 - [ ] **4.** Manipulation de données stockées

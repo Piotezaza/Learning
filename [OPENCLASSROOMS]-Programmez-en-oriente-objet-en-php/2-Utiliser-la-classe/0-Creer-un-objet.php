@@ -1,0 +1,3 @@
+<?php
+
+$perso = new Personnage;

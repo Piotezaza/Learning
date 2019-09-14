@@ -3,7 +3,7 @@
 ## Partie 1 - [Théorie] Les bases de la POO
 - [x] **1.** Introduction à la POO
 - [x] **2.** Utiliser la classe
-- [ ] **3.** L'opérateur de résolution de portée
+- [x] **3.** L'opérateur de résolution de portée
 - [ ] **4.** Manipulation de données stockées
 - [ ] **5.** TP : Mini-jeu de combat
 - [ ] **6.** L'héritage
